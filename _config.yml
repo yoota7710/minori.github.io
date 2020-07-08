@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-remote_theme: jekyll-theme-console
+remote_theme: "jekyll-theme-console"
 title: IT
 email: yooka7710@gmail.com
 description: minori's blog # this means to ignore newlines until "baseurl:"
